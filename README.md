@@ -711,6 +711,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [SignalRaven](https://signalraven.ai) `https://api.signalraven.ai/mcp`
   [![SignalRaven MCP connector](https://glama.ai/mcp/connectors/io.github.signalraven/signalraven/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.signalraven/signalraven)
   🔐 - LinkedIn buying-intent signals, prospect and account research, and openers from your workspace.
+- [StudioMeyer CRM](https://studiomeyer.io/en/services/crm) `https://crm.studiomeyer.io/mcp`
+  [![StudioMeyer CRM MCP connector](https://glama.ai/mcp/connectors/io.studiomeyer/crm/badges/score.svg)](https://glama.ai/mcp/connectors/io.studiomeyer/crm)
+  🔐 - Manage contacts, deals, pipelines and follow-ups from AI chats with an EU-hosted CRM.
 
 ### 🗄️ <a name="databases"></a>Databases
 
@@ -2114,6 +2117,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Stele](https://stele-ai.dev) `https://app.stele-ai.dev/api/mcp`
   [![Stele MCP connector](https://glama.ai/mcp/connectors/dev.stele-ai/stele/badges/score.svg)](https://glama.ai/mcp/connectors/dev.stele-ai/stele)
   🔐 - Shared project memory for coding agents: recall and record decisions, lessons and risks, and claim tasks.
+- [StudioMeyer Memory](https://studiomeyer.io/en/services/memory) `https://memory.studiomeyer.io/mcp`
+  [![StudioMeyer Memory MCP connector](https://glama.ai/mcp/connectors/io.studiomeyer/memory/badges/score.svg)](https://glama.ai/mcp/connectors/io.studiomeyer/memory)
+  🔐 - Share long-term memory across AI agents with semantic search, a knowledge graph and time-aware history.
 - [Synapse Layer](https://synapselayer.org) `https://forge.synapselayer.org/api/mcp`
   [![Synapse Layer MCP connector](https://glama.ai/mcp/connectors/io.github.SynapseLayer/synapse-layer/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.SynapseLayer/synapse-layer)
   🔓 - Persistent encrypted agent memory with semantic recall and cross-agent continuity.
