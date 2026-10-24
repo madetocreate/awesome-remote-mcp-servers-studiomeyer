@@ -3920,6 +3920,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MeetNotes](https://getmeetnotes.com/mcp/) `https://getmeetnotes.com/mcp`
   [![MeetNotes MCP connector](https://glama.ai/mcp/connectors/com.getmeetnotes/meetnotes/badges/score.svg)](https://glama.ai/mcp/connectors/com.getmeetnotes/meetnotes)
   🔐 - Search, read and export meeting transcripts, minutes and action items, and import audio for transcription.
+- [MeetMyAgent](https://meetmyagent.io/en) `https://meetmyagent.io/mcp`
+  [![MeetMyAgent MCP connector](https://glama.ai/mcp/connectors/io.studiomeyer/meetmyagent/badges/score.svg)](https://glama.ai/mcp/connectors/io.studiomeyer/meetmyagent)
+  🔐 - Build an AI agent for your offers, approve publishing, answer questions, collect enquiries and connect via A2A.
 - [NoClick](https://www.noclick.com/mcp) `https://api.noclick.io/mcp`
   [![NoClick MCP connector](https://glama.ai/mcp/connectors/io.github.noclickapp/noclick/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.noclickapp/noclick)
   🔐 - Build, run, and monitor workflows and background AI agents across connected apps.
